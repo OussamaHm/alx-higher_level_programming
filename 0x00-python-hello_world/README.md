@@ -1,1 +1,2 @@
-this is my first python program , YYAAhhooooooooooooo
+0x00. Python - Hello, World
+
